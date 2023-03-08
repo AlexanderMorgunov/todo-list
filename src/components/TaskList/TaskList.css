@@ -1,0 +1,4 @@
+.TaskListWrapper {
+  display: flex;
+  flex-wrap: wrap;
+}

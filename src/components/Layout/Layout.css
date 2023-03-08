@@ -1,0 +1,17 @@
+.Layout-menu {
+  justify-content: end;
+  width: 300px;
+}
+.Layout-content {
+  min-height: calc(100vh - 131px);
+}
+.ant-layout-header {
+  display: flex;
+  justify-content: space-between;
+}
+.ant-layout-content {
+  background-image: url(https://html5book.ru/wp-content/uploads/2015/05/background12.png);
+  background-repeat: repeat;
+  display: flex;
+  flex-direction: column;
+}

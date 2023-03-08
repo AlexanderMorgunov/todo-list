@@ -1,0 +1,37 @@
+.TaskItem-wrapper {
+  width: 300px;
+  height: 320px;
+  background-image: url(./../../../public/image/rm429-016.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 20px;
+  padding: 5px 30px;
+  text-align: center;
+}
+.FormTitle {
+  background: transparent;
+  border: none;
+  width: 250px;
+  height: 20px;
+  margin-bottom: 5px;
+}
+.FormDescription {
+  background: transparent;
+  border: none;
+  width: 250px;
+  height: 200px;
+  max-height: 200px;
+  border: solid 1px #87807c;
+  resize: none;
+}
+.FormBtn {
+  background: transparent;
+  border: 1px solid #87807c;
+  border-radius: 5px;
+  padding: 5px;
+}
+.FormBtn:hover {
+  background-color: #1677ff;
+  color: white;
+  transition: all 0.5s;
+}
